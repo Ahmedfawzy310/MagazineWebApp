@@ -1,0 +1,557 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Magazine.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Magazine.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\carousel\\OIP.jpg",
+      "PackagePath": "staticwebassets\\home\\carousel\\OIP.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\carousel\\banner_1.jpg",
+      "PackagePath": "staticwebassets\\home\\carousel\\banner_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\carousel\\banner_10.jpg",
+      "PackagePath": "staticwebassets\\home\\carousel\\banner_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\carousel\\banner_11.jpg",
+      "PackagePath": "staticwebassets\\home\\carousel\\banner_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\carousel\\banner_12.jpg",
+      "PackagePath": "staticwebassets\\home\\carousel\\banner_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\carousel\\banner_2.jpg",
+      "PackagePath": "staticwebassets\\home\\carousel\\banner_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\carousel\\banner_3.jpg",
+      "PackagePath": "staticwebassets\\home\\carousel\\banner_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\carousel\\banner_4.jpg",
+      "PackagePath": "staticwebassets\\home\\carousel\\banner_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\carousel\\banner_5.jpg",
+      "PackagePath": "staticwebassets\\home\\carousel\\banner_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\carousel\\banner_6.jpg",
+      "PackagePath": "staticwebassets\\home\\carousel\\banner_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\carousel\\banner_7.jpg",
+      "PackagePath": "staticwebassets\\home\\carousel\\banner_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\carousel\\banner_8.jpg",
+      "PackagePath": "staticwebassets\\home\\carousel\\banner_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\carousel\\banner_9.jpg",
+      "PackagePath": "staticwebassets\\home\\carousel\\banner_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\favicon.ico",
+      "PackagePath": "staticwebassets\\home\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\home\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\off-canvas.js",
+      "PackagePath": "staticwebassets\\home\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\home\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\home\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\home\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\home\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\style.css",
+      "PackagePath": "staticwebassets\\home\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\home\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\home\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Art\\731f72d9-5629-491a-bfa8-33044138f21b.jpg",
+      "PackagePath": "staticwebassets\\images\\Art\\731f72d9-5629-491a-bfa8-33044138f21b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Art\\982ef780-6a80-4adc-9aa5-67ec889c4a43.jpg",
+      "PackagePath": "staticwebassets\\images\\Art\\982ef780-6a80-4adc-9aa5-67ec889c4a43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Art\\e6e0d479-cf1a-40c1-971c-79405cffa4ae.jpg",
+      "PackagePath": "staticwebassets\\images\\Art\\e6e0d479-cf1a-40c1-971c-79405cffa4ae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Cooking\\1990d65b-9d32-4e70-a9b5-c55b9c3716d2.jpg",
+      "PackagePath": "staticwebassets\\images\\Cooking\\1990d65b-9d32-4e70-a9b5-c55b9c3716d2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Cooking\\c87145fa-0fdf-4074-9be0-662feb42a90e.jpg",
+      "PackagePath": "staticwebassets\\images\\Cooking\\c87145fa-0fdf-4074-9be0-662feb42a90e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Education\\4d3f05be-f070-477a-bc9d-3c08a7362b2a.jpg",
+      "PackagePath": "staticwebassets\\images\\Education\\4d3f05be-f070-477a-bc9d-3c08a7362b2a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Education\\74f3f034-ddf1-4267-8f84-3a689da30dbc.jpg",
+      "PackagePath": "staticwebassets\\images\\Education\\74f3f034-ddf1-4267-8f84-3a689da30dbc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Education\\c0fc16e6-53cf-4524-b3d2-de865584de69.jpg",
+      "PackagePath": "staticwebassets\\images\\Education\\c0fc16e6-53cf-4524-b3d2-de865584de69.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Entertainment\\0b2fe4e7-5ce2-4565-90ec-c4b055deb54e.jpg",
+      "PackagePath": "staticwebassets\\images\\Entertainment\\0b2fe4e7-5ce2-4565-90ec-c4b055deb54e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Entertainment\\418df5d6-e616-473e-a1b7-dc79f9546e80.jpg",
+      "PackagePath": "staticwebassets\\images\\Entertainment\\418df5d6-e616-473e-a1b7-dc79f9546e80.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Entertainment\\5f931dca-8b6b-46f3-8d15-5c82a1db42e5.jpg",
+      "PackagePath": "staticwebassets\\images\\Entertainment\\5f931dca-8b6b-46f3-8d15-5c82a1db42e5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Entertainment\\6482a053-805f-4ff0-8eef-6de1dd27ee33.jpg",
+      "PackagePath": "staticwebassets\\images\\Entertainment\\6482a053-805f-4ff0-8eef-6de1dd27ee33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Entertainment\\8ba8375a-f0a3-458a-a6e8-e5b0c9ac520f.jpg",
+      "PackagePath": "staticwebassets\\images\\Entertainment\\8ba8375a-f0a3-458a-a6e8-e5b0c9ac520f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Health\\5efa0708-f212-450c-846c-7bd5a2475c43.jpg",
+      "PackagePath": "staticwebassets\\images\\Health\\5efa0708-f212-450c-846c-7bd5a2475c43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Health\\cce30880-3ef4-4fa9-815a-498b8bb0b7c6.jpg",
+      "PackagePath": "staticwebassets\\images\\Health\\cce30880-3ef4-4fa9-815a-498b8bb0b7c6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Politics\\6f8cfbb8-4aaf-4372-a469-f36a74becf2c.jpg",
+      "PackagePath": "staticwebassets\\images\\Politics\\6f8cfbb8-4aaf-4372-a469-f36a74becf2c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Politics\\7b2df2f2-bc0f-4c27-b2b9-f9c5617c35d9.jpg",
+      "PackagePath": "staticwebassets\\images\\Politics\\7b2df2f2-bc0f-4c27-b2b9-f9c5617c35d9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Politics\\a1e8b0e5-bed7-4503-8e5e-95f7ac5b1a12.jpg",
+      "PackagePath": "staticwebassets\\images\\Politics\\a1e8b0e5-bed7-4503-8e5e-95f7ac5b1a12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Politics\\ac66fdea-52ed-45c3-8b9b-25265da3cdaa.jpg",
+      "PackagePath": "staticwebassets\\images\\Politics\\ac66fdea-52ed-45c3-8b9b-25265da3cdaa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Religious\\0abc6ecc-8975-48a7-a4eb-7e613132cda3.jfif",
+      "PackagePath": "staticwebassets\\images\\Religious\\0abc6ecc-8975-48a7-a4eb-7e613132cda3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Religious\\6be9de99-71e4-43e4-a96f-c0d0455df738.jfif",
+      "PackagePath": "staticwebassets\\images\\Religious\\6be9de99-71e4-43e4-a96f-c0d0455df738.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Religious\\ba41f682-f06e-47e5-b078-c124f1b7528a.jpg",
+      "PackagePath": "staticwebassets\\images\\Religious\\ba41f682-f06e-47e5-b078-c124f1b7528a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\Religious\\e202b914-bcb7-473d-96cc-4770766dc500.jpg",
+      "PackagePath": "staticwebassets\\images\\Religious\\e202b914-bcb7-473d-96cc-4770766dc500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\SettingImage\\1837-sunday-times-page-3-reporting-the-death-of-king-william-iv-F22G4Y.jpg",
+      "PackagePath": "staticwebassets\\images\\SettingImage\\1837-sunday-times-page-3-reporting-the-death-of-king-william-iv-F22G4Y.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\SettingImage\\22729172299.jpg",
+      "PackagePath": "staticwebassets\\images\\SettingImage\\22729172299.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\SettingImage\\OIP (1).jpg",
+      "PackagePath": "staticwebassets\\images\\SettingImage\\OIP (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\SettingImage\\R (1).jpg",
+      "PackagePath": "staticwebassets\\images\\SettingImage\\R (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\SettingImage\\R.jpg",
+      "PackagePath": "staticwebassets\\images\\SettingImage\\R.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\SettingImage\\default.jpg",
+      "PackagePath": "staticwebassets\\images\\SettingImage\\default.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\SettingImage\\depositphotos_9346923-stock-photo-abstract-newspaper-dirty-damaged-background.jpg",
+      "PackagePath": "staticwebassets\\images\\SettingImage\\depositphotos_9346923-stock-photo-abstract-newspaper-dirty-damaged-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\SettingImage\\logo-clipart-newspaper-4.png",
+      "PackagePath": "staticwebassets\\images\\SettingImage\\logo-clipart-newspaper-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\SettingImage\\rr.jpg",
+      "PackagePath": "staticwebassets\\images\\SettingImage\\rr.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\SettingImage\\sceptics_0_0.jpg",
+      "PackagePath": "staticwebassets\\images\\SettingImage\\sceptics_0_0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\SettingImage\\shutterstock_429243742-1050x525.jpg",
+      "PackagePath": "staticwebassets\\images\\SettingImage\\shutterstock_429243742-1050x525.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\sports\\0300cdee-0261-49d5-8f43-25c18410586b.jpg",
+      "PackagePath": "staticwebassets\\images\\sports\\0300cdee-0261-49d5-8f43-25c18410586b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\sports\\4af8a916-c61f-426a-9e1b-b0e3fe33f13a.jpg",
+      "PackagePath": "staticwebassets\\images\\sports\\4af8a916-c61f-426a-9e1b-b0e3fe33f13a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\sports\\6739cb44-de17-4d43-9329-4ea8dae144a0.jpg",
+      "PackagePath": "staticwebassets\\images\\sports\\6739cb44-de17-4d43-9329-4ea8dae144a0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\sports\\b06d6cf1-f2ac-498f-9c75-503f9ebc86da.jpg",
+      "PackagePath": "staticwebassets\\images\\sports\\b06d6cf1-f2ac-498f-9c75-503f9ebc86da.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\images\\sports\\b52f74bb-d98c-445c-9cef-e520b69b0dac.jpg",
+      "PackagePath": "staticwebassets\\images\\sports\\b52f74bb-d98c-445c-9cef-e520b69b0dac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\js\\FileName.js",
+      "PackagePath": "staticwebassets\\js\\FileName.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\js\\Helper.js",
+      "PackagePath": "staticwebassets\\js\\Helper.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\js\\Setting.js",
+      "PackagePath": "staticwebassets\\js\\Setting.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\lib\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Micro Soft\\Desktop\\Asp.net revision\\Magazine\\Magazine\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Magazine.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Magazine.props",
+      "PackagePath": "build\\Magazine.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Magazine.props",
+      "PackagePath": "buildMultiTargeting\\Magazine.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Magazine.props",
+      "PackagePath": "buildTransitive\\Magazine.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

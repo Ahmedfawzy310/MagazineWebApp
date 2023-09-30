@@ -1,0 +1,53 @@
+﻿@model NewsPageViewModel
+
+@{
+    ViewData["Title"] = "News";
+}
+
+<div class="container">
+    <div class="main overflow-hidden mt-5">
+        <img src="~/images/SettingImage/logo-clipart-newspaper-4.png"/>
+    </div>
+    <div class="mt-5 mb-5">
+        <strong><span>Category</span></strong>
+        <h5 class="fw-bolder mt-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h5>
+        <p class="mt-4"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a 
+            galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also 
+            the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
+            Letraset sheets containing Lorem Ipsum passages, and more recently
+            with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+    </div>
+    <hr class="text-warning  "/>
+    <hr class="text-warning  " />
+    <div class="row my-5">
+       
+
+        @foreach(var article in Model.Articles)
+        {
+            <div class="col-md-4">
+                <div class="card border-warning mb-3 ">
+
+                    <div class="card-body p-0">
+                        <div class="owl-carousel  full-width ">
+                            @foreach (var img in article.Images)
+                            {
+                                <div class="item">
+                                    <img src="~/images/@article.Category.Name/@img.ImageTitle" />
+                                </div>
+                            }
+
+                        </div>
+                        <h4 class="card-title mt-5 px-2">@article.Title</h4>
+                        <p class="card-text mt-3 px-2 mb-5">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <div class="d-flex justify-content-center m-3"> <a class="btn btn-outline-warning w-75" asp-action="Details" asp-route-id="@article.Id">Read</a></div>
+                    </div>
+                </div>
+
+            </div>
+        }
+
+       
+        
+    </div>
+</div>

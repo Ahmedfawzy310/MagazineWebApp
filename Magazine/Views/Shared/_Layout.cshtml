@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Magazine</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="~/lib/select2/css/select2.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link href="~/lib/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap-icons/font/bootstrap-icons.min.css" rel="stylesheet" />
+    <link href="~/lib/sweetalert2/sweetalert2.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/home/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/home/owl.theme.default.min.css">
+   
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap">
+    @RenderSection("Style",required:false)
+</head >
+<body class ="bg-dark">
+    <header>
+        <nav class="navbar navbar-expand-lg bg-dark " data-bs-theme="dark">
+            <div class="container-fluid">
+                <a class="navbar-brand"  asp-controller="Home" asp-action="Index"><img src="~/images/SettingImage/logo-clipart-newspaper-4.png" class=" p-1 rounded-circle border border-warning" width="50px" height="50px" /></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-warning fs-5"  asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-warning fs-5"  asp-controller="Articles" asp-action="FormAddition">Post</a>
+                        </li>
+                         <li class="nav-item">
+                            <a class="nav-link text-warning fs-5"  asp-controller="Roles" asp-action="Index">Roles</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-warning fs-5" asp-controller="Users" asp-action="Index">Users</a>
+                        </li>
+                    </ul>
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+            @RenderBody()
+
+
+    <footer class="bg-dark text-center text-white">
+        <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+            Follow Us to Stay Updated with the Latest
+        </div>
+        <!-- Grid container -->
+        <div class="container p-4 pb-0">
+            <!-- Section: Social media -->
+            <section class="mb-4">
+                <!-- Facebook -->
+                <a class="btn btn-outline-warning" id="facelink" href="#!" target="_blank" role="button">
+                    <i class="bi bi-facebook"></i>
+                </a>
+
+                <!-- Twitter -->
+                <a class="btn btn-outline-warning" id="twitlink" href="#!" target="_blank" role="button">
+                    <i class="bi bi-twitter"></i>
+                </a>
+
+                <!-- Google -->
+                <a class="btn btn-outline-warning" id="googlelink" href="#!" target="_blank" role="button">
+                    <i class="bi bi-google"></i>
+                </a>
+
+                <!-- Instagram -->
+                <a class="btn btn-outline-warning" id="instalink" href="#!" target="_blank" role="button">
+                    <i class="bi bi-instagram"></i>
+                </a>
+
+                <!-- Linkedin -->
+                <a class="btn btn-outline-warning" id="linked" href="#!" target="_blank" role="button">
+                    <i class="bi bi-linkedin"></i>
+                </a>
+
+                <!-- Github -->
+                <a class="btn btn-outline-warning " id="githuplink" href="#!" target="_blank" role="button">
+                    <i class="bi bi-github"></i>
+                </a>
+            </section>
+            <!-- Section: Social media -->
+        </div>
+        <!-- Grid container -->
+        <!-- Copyright -->
+        <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+            Register to Become a Publisher or Reader
+            <a class="text-white" href="#">Register</a>
+        </div>
+        <!-- Copyright -->
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/home/owl.carousel.min.js"></script>
+    <script src="~/js/helper.js"></script>
+    <script src="~/js/setting.js"></script>
+    <script src="~/home/owl-carousel.js"></script>
+    <script src="~/home/vendor.bundle.base.js"></script>
+    <script src="~/lib/select2/js/select2.min.js"></script>
+    <script src="~/lib/sweetalert2/sweetalert2.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    
+ 
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

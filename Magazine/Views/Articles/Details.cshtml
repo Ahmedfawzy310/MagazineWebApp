@@ -1,0 +1,69 @@
+﻿@model TbArticle
+
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+
+<div id="details" class="card border-warning rounded-4 mt-5 overflow-hidden">
+    <div class="card-body p-0">
+        <div class="row bg-dark">
+            
+            <div class="col-md-7 px-5 py-4 d-flex flex-column justify-content-between ">
+                <div>
+                    <a class="btn btn-info rounded rounded-3 me-2" asp-action="Edit" asp-route-id="@Model.Id">
+                        <i class="bi bi-pencil-fill"></i>
+                    </a>
+                    <a href="javascript:;" class="btn btn-danger rounded rounded-3 js-delete" data-id="@Model.Id">
+                        <i class="bi bi-trash3"></i>
+                    </a>
+                </div>
+                <div >
+                    <h1 class="text-success fw-bolder">@Model.Title</h1>
+                   
+                    <span class="badge bg-warning fs-5 mb-4">@Model.Category.Name</span>
+                    <h5 class="text-warning mb-3 ">@Model.CreatedDate</h5>
+                   
+                    <p class="fs-5 ">
+                        The quick brown fox jumps over the lazy dog. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        Please note that the text above is generated for the purpose of providing a sample of 50 words and doesn't necessarily convey any specific meaning.
+                    </p>
+                    
+                    
+
+                </div>
+                <div class="d-flex justify-content-center">
+                    <i class="toggle-icon btn bi bi-arrow-down-circle-fill text-warning fs-2 ms-5 "></i>
+                    <i class="slideup btn bi bi-arrow-up-circle-fill text-warning fs-2 ms-5 " style="display:none;"></i>
+                    </div>
+            </div>
+            <div class="col-md-5" >
+                    <div class="card-body p-0" >
+                        <div class="owl-carousel  full-width">
+                            @foreach (var img in Model.Images)
+                            {
+                                <div class="item">
+                                    <img src="~/images/@Model.Category?.Name/@img.ImageTitle" />
+                                </div>
+                            }
+
+                        </div>
+                    </div>
+                
+               
+            </div>
+             <div class="col-md-12">
+                <p class="fs-5 px-4 hidden-text " style="display:none;">
+                   @Model.Description
+                </p>
+            </div> 
+        </div>
+    </div>
+</div>
+
+
+@section Scripts{
+    <script src="~/js/article-delete.js"></script>
+}

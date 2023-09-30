@@ -1,0 +1,97 @@
+﻿@model List<HomePageViewModel>
+@{
+    ViewData["Title"] = "Home Page";
+}
+@section Style{
+
+    <!-- Plugin css for this page -->
+
+    <link rel="stylesheet" href="~/home/style.css">
+
+    <!-- End plugin css for this page -->
+}
+
+<div class="home-slide  overflow-hidden">
+    <div class="card p-0">
+        <div class="card-body p-0">
+            <div class="owl-carousel owl-theme full-width ">
+                
+                @foreach (var slide in Model)
+                {
+                    @foreach(var img in slide.FirstSlider)
+                    {
+                        <div class="item ">
+                            <img src="~/images/SettingImage/@img.ImageMain" />
+                        </div>
+                    }
+                }
+
+            </div>
+        </div>
+    </div>
+  
+</div>
+
+
+
+<div class="row grid-margin">
+
+    <div class="col-lg-12">
+
+        <div class="card">
+            <div class="card-body">
+                <p class="fw-bold px-5 fs-4">Stay connected always to follow the latest news around the world.</p><br />
+                <div class="owl-carousel owl-theme nonloop">
+                    @foreach (var slide in Model)
+                    {
+                        @foreach (var img in slide.ZweiSlider)
+                        {
+                            <div class="item ">
+                                <img src="~/images/SettingImage/@img.ImageSecond" />
+                            </div>
+                        }
+                    }
+
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row bg-dark">
+    <div class="d-flex justify-content-center flex-column">
+        <h5 type="button" class="btn btn-outline-warning text-light mb-3 fs-4"><i class="bi bi-newspaper me-2 fs-4"></i>Articles</h5>
+        <p class="fw-bold px-5 fs-4">Exploring In-Depth Perspectives and Insightful Articles: A Comprehensive Section Showcasing a Plethora of Engaging and Informative Pieces on our Website....</p>
+    </div>
+
+
+
+    @foreach(var box in Model)
+    {
+        <div class="col-lg-4 grid-margin stretch-card">
+            <div class="card">
+                <a class="card-body text-decoration-none" asp-controller="Articles" asp-action="News" asp-route-id="@box.CategoryId">
+                    <h4 class="card-title ">@box.CategoryName</h4>
+                    <div class="owl-carousel owl-theme full-width">
+                        @foreach (var article in box.Articles)
+                        {
+                            @foreach (var img in article.ImageTitles)
+                            {
+                                <div class="item">
+                                    <img src="~/images/@box.CategoryName/@img" />
+                                </div>
+                            }
+                        }
+
+                    </div>
+                </a>
+            </div>
+        </div>
+    }
+
+
+
+</div>
+
+

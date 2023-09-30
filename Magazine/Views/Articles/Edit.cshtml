@@ -1,0 +1,71 @@
+﻿@model EditFormViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<div class="d-flex justify-content-center mt-3 title"><h3>Edit Article</h3></div>
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+    <div class="row w-100 my-3 px-1">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label class="col-form-label col-form-label-lg mt-4" for="inputLarge">Title</label>
+                <input asp-for="Title" class="form-control form-control-lg  border-warning text-dark " type="text" placeholder="Title." id="inputLarge">
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Categories" class="form-label mt-4">Category</label>
+                <select asp-for="CategoryId" asp-items="Model.Categories" class="form-select  border-warning text-dark"
+                        data-placeholder="Select a Category" data-minimum-results-for-search="Infinity">
+                    <option value=""></option>
+                </select>
+                <span asp-validation-for="CategoryId" class="text-danger"></span>
+
+            </div>
+            <div class="form-group">
+                <label asp-for="Genders" class="form-label mt-4">Target Gender</label>
+                <select asp-for="GenderId" asp-items="Model.Genders" class="form-select  border-warning text-dark" id="exampleSelect1"
+                        data-placeholder="Select a Target Gender" data-minimum-results-for-search="Infinity">
+                    <option value=""></option>
+
+                </select>
+                <span asp-validation-for="GenderId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TargetAudinces" class="form-label mt-4">Target Audience</label>
+                <select asp-for="SelectedAudinces" asp-items="Model.TargetAudinces" class="form-select  border-warning text-dark" id="exampleSelect2"
+                        data-placeholder="Select a Target Audinces">
+                    <option></option>
+                </select>
+                <span asp-validation-for="SelectedAudinces" class="text-danger"></span>
+            </div>
+
+
+
+            <div class="form-group">
+                <label for="exampleTextarea" class="form-label mt-4 ">Article Body</label>
+                <textarea asp-for="Description" class="form-control  border-warning text-light" placeholder="Article Body"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="formFile" class="form-label mt-4 ">Images</label>
+                <input asp-for="Images" class="form-control  border-warning text-dark" type="file" id="file-input" accept="image/png, image/jpeg" onchange="preview()" multiple>
+                <span asp-validation-for="Images" class="text-danger"></span>
+                <small class="form-text text-muted d-block">Only @SettingsForForm.AllowdExtension are allowed </small>
+
+            </div>
+
+
+        </div>
+        <div class="col-md-6 my-5 ">
+            <p id="num-of-files" class="mt-2 ms-5">No Files Chosen..</p>
+            <div id="images"></div>
+        </div>
+    </div>
+    <button type="submit" class="btn btn-outline-warning w-25 ms-1 mt-4">Post</button>
+</form>
+
+@section Scripts{
+    <script src="~/js/filename.js"></script>
+    <partial name="_ValidationScriptsPartial" />
+                }
